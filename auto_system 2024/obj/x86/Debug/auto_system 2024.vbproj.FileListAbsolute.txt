@@ -1,0 +1,25 @@
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\bin\Debug\auto_system 2024.exe
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\bin\Debug\auto_system 2024.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\bin\Debug\auto_system 2024.xml
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system_2024.index.resources
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system_2024.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system 2024.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system 2024.exe
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system 2024.xml
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system 2024.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\obj\x86\Debug\auto_system_2024.main.resources
+C:\Users\USER\AppData\Local\Temporary Projects\auto_system 2024\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system 2024.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system 2024.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system 2024.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\bin\Debug\auto_system 2024.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\bin\Debug\auto_system 2024.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\bin\Debug\auto_system 2024.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system_2024.index.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system_2024.main.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system_2024.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system 2024.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system 2024\auto_system 2024\bin\Debug\MySql.Data.DLL
+C:\Users\USER\documents\visual studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system_2024.recordview.resources
+C:\Users\USER\documents\visual studio 2010\Projects\auto_system 2024\auto_system 2024\obj\x86\Debug\auto_system 2024.vbprojResolveAssemblyReference.cache
